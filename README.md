@@ -2,8 +2,11 @@
 ##  
 
 soy estudiante de informática
+
 estoy aprendiendo hacer una buena desarrolladora
+
 me gusta trabajar en equipo
+
 me pueden contactar por aquí
 
 <!--
