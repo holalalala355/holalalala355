@@ -8,7 +8,7 @@ estoy aprendiendo hacer una buena desarrolladora
 me gusta trabajar en equipo
 
 me pueden contactar por aquí
-o por ig may._bust
+o por ig  @may._bust
 
 <!--
 **holalalala355/holalalala355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
