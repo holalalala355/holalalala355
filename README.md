@@ -1,6 +1,11 @@
 # Hi my name is Mayte👋
 ##  
+
 soy estudiante de informática
+estoy aprendiendo hacer una buena desarrolladora
+me gusta trabajar en equipo
+me pueden contactar por aquí
+
 <!--
 **holalalala355/holalalala355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
